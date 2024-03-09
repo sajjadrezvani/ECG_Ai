@@ -1,4 +1,4 @@
-# Electrocardiogram(ECG) Signal processing using Deep learning and AI in Python
+# Electrocardiogram(ECG) Signal processing using DeepLearning and AI in Python
 My Bachelor Thesis Documents
 
 ## Abstract
